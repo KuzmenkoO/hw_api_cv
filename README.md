@@ -22,8 +22,8 @@
 > 🔹 Перед встановленням активуй віртуальне середовище (якщо ще не активоване).
 
 ```bash
-git clone https://github.com/your_username/cat-detector-api.git
-cd cat-detector-api
+git clone https://github.com/KuzmenkoO/hw_api_cv.git
+cd hw_api_cv
 
 # створення віртуального середовища
 python -m venv venv
