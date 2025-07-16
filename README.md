@@ -116,3 +116,6 @@ tensorflow
 pillow
 python-multipart
 ```
+
+Лог запуску і відпрацювання:
+![log.png](log.png)
