@@ -101,9 +101,9 @@ uvicorn app.main:app --reload
 ## 📷 Example of API in Use
 > Скріншот з інтерфейсу Swagger UI після запиту `POST /predict`.
 
-![swagger1.png](test_images/swagger1.png)
+![swagger1.png](swagger1.png)
 
-![swagger2.png](test_images/swagger2.png)
+![swagger2.png](swagger2.png)
 
 ---
 
