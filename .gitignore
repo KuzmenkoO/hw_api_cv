@@ -1,0 +1,50 @@
+# created by virtualenv automatically
+*
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.log
+*.sqlite3
+
+# Virtual environment
+venv/
+.env/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# TensorFlow saved models (якщо колись експортуєш)
+*.pb
+saved_model/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm/VSCode config (якщо використовуєш IDE)
+.idea/
+.vscode/
+
+# Uploads or temp images
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.gif
+
+# Model cache (на випадок, якщо keras/tensorflow щось зберігає локально)
+__models__/
+*.h5
+*.ckpt
+
+# Compiled files
+*.zip
+
+# Swagger UI temp
+openapi.json
+
+# Mac OS metadata
+*.DS_Store
